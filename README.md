@@ -1,2 +1,2 @@
 # JapaneseRestaurant-Website
-Restaurant website.
+Restaurant website template.
